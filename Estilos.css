@@ -20,3 +20,12 @@
     font-style: normal;
   }
   
+a:visited {
+ color: red;
+}
+
+.titulo:hover {
+  background-color: skyblue;
+    color: orange;
+    font-size: 40px;
+}
